@@ -10,7 +10,7 @@ from tensorflow.keras.optimizers import Adam
 import joblib
 
 # Replace 'your_file.xlsx' with the path to your Excel file
-xls = pd.ExcelFile('Vermoegensaufbau.xlsx')
+xls = pd.ExcelFile('training_data.xlsx')
 sheet_names = xls.sheet_names
 
 # Read the specific sheet into a DataFrame
