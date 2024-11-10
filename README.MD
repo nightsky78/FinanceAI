@@ -4,19 +4,25 @@ FinanceAI is a machine learning project designed to classify financial transacti
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Files](#files)
-- [Data Structure](#data-structure)
-- [Model Training](#model-training)
-- [Inference](#inference)
-- [License](#license)
+- [FinanceAI](#financeai)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+    - [Model Training](#model-training)
+    - [Inference](#inference)
+  - [Files](#files)
+  - [Data Structure](#data-structure)
+    - [Training Data File (`training_data.xlsx`)](#training-data-file-training_dataxlsx)
+    - [New Data File (`new_data.csv`)](#new-data-file-new_datacsv)
+  - [Model Training](#model-training-1)
+  - [Inference](#inference-1)
+  - [License](#license)
 
 ## Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/FinanceAI.git
+    git clone https://github.com/nightsky78/FinanceAI.git
     cd FinanceAI
     ```
 
